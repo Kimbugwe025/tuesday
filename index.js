@@ -1,0 +1,3 @@
+let book={
+    topic:'javascript'
+};
